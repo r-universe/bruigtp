@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DIVINE"]
+	path = DIVINE
+	url = https://github.com/bruigtp/divine
 [submodule "REDCapDM"]
 	path = REDCapDM
 	url = https://github.com/bruigtp/redcapdm
